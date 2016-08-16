@@ -1,0 +1,12 @@
+body {
+  background: grey;
+  color: black;
+}
+h3 {
+  color: red;
+  background: yellow;
+  padding: 5px;
+}
+p {
+  padding: 10px;
+}
